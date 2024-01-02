@@ -5,7 +5,7 @@ Attrition of employees
   * increase costs (trainings, hiring process)
   * loss of employee development plan
   * loss reputation.
-  *
+
   # Goal of this project: 
-    * understand trends and patterns behind employee loss.
-    * make data driven recommendation to prepare for future employee loss.
+   * understand trends and patterns behind employee loss.
+   * make data driven recommendation to prepare for future employee loss.
