@@ -9,3 +9,5 @@ Attrition of employees
   # Goal of this project: 
    * understand trends and patterns behind employee loss.
    * make data driven recommendation to prepare for future employee loss.
+
+# For Interactive Dashboard [here](https://www.novypro.com/project/hr-attrition-analytics-3)
